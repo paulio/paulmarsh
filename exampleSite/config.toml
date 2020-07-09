@@ -45,20 +45,24 @@ title = "Get the best hugo templates"
 enable = true
 label = "Visit Here"
 link = "https://gethugothemes.com/shop/"
+# css plugins
 [[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
+link = "https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
 [[params.plugins.css]]
-link = "plugins/themify-icons/themify-icons.css"
+link = "https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.min.css"
+# js plugins
 [[params.plugins.js]]
-link = "plugins/jQuery/jquery.min.js"
+link = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
 [[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
+link = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"
 [[params.plugins.js]]
-link = "plugins/search/fuse.min.js"
+link = "https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.0/fuse.min.js"
 [[params.plugins.js]]
-link = "plugins/search/mark.js"
+link = "https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
+
+
 [params.preloader]
 enable = true
 preloader = ""
