@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\exampleSite",
+    "\\exampleSite\\resources",
+    "\\exampleSite\\resources\\_gen",
+    "\\exampleSite\\resources\\_gen\\assets",
+    "\\exampleSite\\resources\\_gen\\assets\\scss",
+    "\\exampleSite\\resources\\_gen\\assets\\scss\\scss",
+    "\\exampleSite\\static",
+    "\\exampleSite\\static\\images",
+    "\\static"
+  ],
+  "SelectedNode": "\\exampleSite\\static",
+  "PreviewInSolutionExplorer": false
+}
