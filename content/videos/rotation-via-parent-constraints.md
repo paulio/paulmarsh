@@ -1,7 +1,7 @@
 ---
 title: "Rotation via Parent Constraints"
 date: 2020-07-09T15:57:38+01:00
-draft: true
+draft: false
 ---
 
 Sometimes you get a model where the bones are offset and that can make it very difficult to rotate the model correctly.
