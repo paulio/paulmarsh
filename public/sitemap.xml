@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://paulmarsh.uk/categories/</loc>
+    <loc>https://paulmarsh.uk/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://paulmarsh.uk/contact/</loc>
+    <loc>https://paulmarsh.uk/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://paulmarsh.uk/</loc>
+    <loc>https://paulmarsh.uk/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://paulmarsh.uk/tags/</loc>
+    <loc>https://paulmarsh.uk/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

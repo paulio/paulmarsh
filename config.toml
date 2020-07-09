@@ -1,4 +1,4 @@
-baseURL = "http://paulmarsh.uk/"
+baseURL = "https://paulmarsh.uk/"
 languageCode = "en-us"
 title = "Paul Marsh"
 theme = "ananke"
