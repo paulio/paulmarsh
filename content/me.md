@@ -1,6 +1,6 @@
 ---
 title: Me
-featured_image: "images/TerrainPicture.png"
+featured_image: "/images/TerrainPicture.png"
 omit_header_text: true
 description: About me
 type: page
