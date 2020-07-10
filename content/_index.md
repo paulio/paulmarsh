@@ -1,6 +1,6 @@
 ---
 title: "Paul Marsh"
-featured_image: '/images/Background.PNG'
+featured_image: '/images/Background.png'
 description: "Hello, yes it is I, welcome."
 ---
 Welcome to my site. 

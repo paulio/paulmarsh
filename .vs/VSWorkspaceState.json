@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\posts",
-    "\\content\\videos",
-    "\\public",
     "\\static",
+    "\\static\\posts",
+    "\\static\\posts\\images",
+    "\\static\\videos",
+    "\\static\\videos\\images",
     "\\themes",
     "\\themes\\ananke",
-    "\\themes\\ananke\\layouts\\partials",
-    "\\themes\\ananke\\layouts\\partials\\func"
+    "\\themes\\ananke\\static"
   ],
-  "SelectedNode": "\\public\\index.html",
+  "SelectedNode": "\\static\\posts\\images",
   "PreviewInSolutionExplorer": false
 }

@@ -2,26 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videos on Paul Marsh</title>
-    <link>https://paulmarsh.uk/videos/</link>
+    <link>/videos/</link>
     <description>Recent content in Videos on Paul Marsh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2020 15:57:38 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 11:17:46 +0100</lastBuildDate>
     
-	<atom:link href="https://paulmarsh.uk/videos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/videos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Non Humanoid Avatar Masks</title>
+      <link>/videos/non-humanoid-avatar-masks/</link>
+      <pubDate>Fri, 10 Jul 2020 11:17:46 +0100</pubDate>
+      
+      <guid>/videos/non-humanoid-avatar-masks/</guid>
+      <description>&lt;p&gt;How to create non-humanoid avatar mask for use with Animation Layers
+&lt;a href=&#34;https://www.youtube.com/watch?v=4INef1-InUY&amp;feature=emb_logo
+&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/4INef1-InUY/0.jpg&#34; alt=&#34;Non Humanoid Avatar Masks&#34; class=&#34;w-40&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Detect Ranges With Separate Colliders</title>
+      <link>/videos/detect-ranges-with-separate-colliders/</link>
+      <pubDate>Fri, 10 Jul 2020 11:14:27 +0100</pubDate>
+      
+      <guid>/videos/detect-ranges-with-separate-colliders/</guid>
+      <description>&lt;p&gt;Showing how to setup game objects with different detection ranges via separate child colliders.
+&lt;a href=&#34;https://www.youtube.com/watch?v=nNGb6NKLfaQ&amp;feature=emb_logo
+&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/nNGb6NKLfaQ/0.jpg&#34; alt=&#34;Detect Ranges With Separate Colliders&#34; class=&#34;w-40&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Debugging Unity With Visualstudio</title>
+      <link>/videos/debugging-unity-with-visualstudio/</link>
+      <pubDate>Fri, 10 Jul 2020 11:08:17 +0100</pubDate>
+      
+      <guid>/videos/debugging-unity-with-visualstudio/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve missed a few bits out, like Watches and Stack Traces but hopefully there is something useful in here
+&lt;a href=&#34;https://www.youtube.com/watch?v=ksuZ-RBdqzY&amp;feature=emb_logo
+&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/ksuZ-RBdqzY/0.jpg&#34; alt=&#34;Debugging Unity With Visualstudio&#34; class=&#34;w-40&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Rotation via Parent Constraints</title>
-      <link>https://paulmarsh.uk/videos/rotation-via-parent-constraints/</link>
+      <link>/videos/rotation-via-parent-constraints/</link>
       <pubDate>Thu, 09 Jul 2020 15:57:38 +0100</pubDate>
       
-      <guid>https://paulmarsh.uk/videos/rotation-via-parent-constraints/</guid>
-      <description>&lt;p&gt;Sometimes you get a model where the bones are offset and that can make it very difficult to rotate the model correctly.
+      <guid>/videos/rotation-via-parent-constraints/</guid>
+      <description>&lt;p&gt;Sometimes when developing a Unity App you get a model where the bones are offset and that can make it very difficult to rotate the model correctly.
 In &lt;a href=&#34;https://youtu.be/4LXdrvYpo7A&#34;  title=&#34;CBCStudios&#34;   target=&#34;_blank&#34; &gt;Rotation via Parent Constraints&lt;/a&gt; I&amp;rsquo;ll show one technique to easily workaround the problem.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4LXdrvYpo7A
 &#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/4LXdrvYpo7A/0.jpg&#34; 
-alt=&#34;Rotation via Parent Constraints&#34; width=&#34;480&#34; height=&#34;360&#34; border=&#34;10&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+alt=&#34;Rotation via Parent Constraints&#34; class=&#34;w-40&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

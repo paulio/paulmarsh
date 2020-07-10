@@ -2,22 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Paul Marsh</title>
-    <link>https://paulmarsh.uk/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Paul Marsh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2020 15:26:42 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 11:31:52 +0100</lastBuildDate>
     
-	<atom:link href="https://paulmarsh.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Intro</title>
-      <link>https://paulmarsh.uk/posts/intro/</link>
+      <title>Auto Generated Wall Structure</title>
+      <link>/posts/auto-generated-wall-structure/</link>
+      <pubDate>Fri, 10 Jul 2020 11:31:52 +0100</pubDate>
+      
+      <guid>/posts/auto-generated-wall-structure/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been developing a script that takes the dimensions of a structure and automatically constructs a prefab of the structure made up of individual destructable bricks. In the latest incarnation I&amp;rsquo;ve added an entrance.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5dccae9e067deb2d2d704ff2%2Fposts%2F5ed0dfaf073e3b31ec21123a%2F5ed0dfaf073e3b31ec21123a_98046.png?width=1240&amp;w=1240&amp;auto=format%2Ccompress&amp;ixlib=js-2.3.1&amp;s=6a32d23a8a20a21abb8fd69e62ebebb8&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Go With ArtEngine</title>
+      <link>/posts/first-go-with-artengine/</link>
+      <pubDate>Fri, 10 Jul 2020 11:20:54 +0100</pubDate>
+      
+      <guid>/posts/first-go-with-artengine/</guid>
+      <description>&lt;p&gt;First off, I know almost nothing about Art Engine so the fact I could get it to do some useful stuff in next to no time is a good start. This blog post is about what I tried.
+&lt;img src=&#34;https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5dccae9e067deb2d2d704ff2%2Fposts%2F5ee8d80a20b6af5d4fef7614%2F5ee8d80a20b6af5d4fef7614_58946.png?width=1240&amp;w=1240&amp;auto=format%2Ccompress&amp;ixlib=js-2.3.1&amp;s=632419e696aab8957cf5272c4b92ccf5&#34;/&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Health/Progress bar via a Shader</title>
+      <link>/posts/health-progressbar/</link>
+      <pubDate>Fri, 10 Jul 2020 11:01:35 +0100</pubDate>
+      
+      <guid>/posts/health-progressbar/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s a fairly common requirement to have some sort of health-bar or progress-bar in a game. However, as explained by &lt;a href=&#34;https://www.stevestreeting.com/2019/02/22/enemy-health-bars-in-1-draw-call-in-unity&#34;   target=&#34;_blank&#34; &gt;Steve Streeting&lt;/a&gt; this can have performance problems if you&amp;rsquo;re using a Canvas and assigning it to many entities. The answer is to use a Shader, but what does that look like? This morning I set about trying to create one and this is my result;
+&lt;img src=&#34;/images/home/HealthShader.png&#34; alt=&#34;Health Shader&#34;/&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Auto Convert Roads Types from Real World Terrain</title>
+      <link>/posts/auto-convert-easyroads-types/</link>
+      <pubDate>Fri, 10 Jul 2020 08:58:27 +0100</pubDate>
+      
+      <guid>/posts/auto-convert-easyroads-types/</guid>
+      <description>&lt;p&gt;Real World Terrain is a great Unity Asset to kick start a Unity Terrain based upon a real life location.
+One of the helpful features is that it will can also be used in conjunction with EasyRoads3D to generate a road network based on actual road data.
+However, you might find yourself in a situation were you&amp;rsquo;ve requested that all roads types (highways to dirt paths) are included but you end up with everything looking like 6 metre asphalt roads.
+If you&amp;rsquo;re in this situation then you can use the following script (or tweaked to your needs) to convert them to something more useful.
+&lt;strong&gt;NB It also sets the width of the road to that specified in the meta data.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Can&#39;t paint Trees, etc onto your Unity Terrain?</title>
+      <link>/posts/cannot-paint-trees-on-terrain/</link>
       <pubDate>Thu, 09 Jul 2020 15:26:42 +0100</pubDate>
       
-      <guid>https://paulmarsh.uk/posts/intro/</guid>
-      <description>Hello, and welcome to a whole site dedicated to me, Paul.</description>
+      <guid>/posts/cannot-paint-trees-on-terrain/</guid>
+      <description>I was scratching my head today as I suddenly wasn&amp;rsquo;t able to use the either the Terrain tools or GeNa to paint/stamp trees onto my Terrain. Turns out that Vegetation Studio Pro turns off the ability here;</description>
     </item>
     
   </channel>

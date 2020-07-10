@@ -3,54 +3,109 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://paulmarsh.uk/</loc>
+    <loc>/me/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/auto-generated-wall-structure/</loc>
+    <lastmod>2020-07-10T11:31:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-07-10T11:31:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-07-10T11:31:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/first-go-with-artengine/</loc>
+    <lastmod>2020-07-10T11:20:54+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/videos/non-humanoid-avatar-masks/</loc>
+    <lastmod>2020-07-10T11:17:46+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/videos/</loc>
+    <lastmod>2020-07-10T11:17:46+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/videos/detect-ranges-with-separate-colliders/</loc>
+    <lastmod>2020-07-10T11:14:27+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/videos/debugging-unity-with-visualstudio/</loc>
+    <lastmod>2020-07-10T11:08:17+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/health-progressbar/</loc>
+    <lastmod>2020-07-10T11:01:35+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/auto-convert-easyroads-types/</loc>
+    <lastmod>2020-07-10T08:58:27+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/videos/rotation-via-parent-constraints/</loc>
     <lastmod>2020-07-09T15:57:38+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paulmarsh.uk/videos/rotation-via-parent-constraints/</loc>
-    <lastmod>2020-07-09T15:57:38+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulmarsh.uk/videos/</loc>
-    <lastmod>2020-07-09T15:57:38+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulmarsh.uk/posts/intro/</loc>
+    <loc>/posts/cannot-paint-trees-on-terrain/</loc>
     <lastmod>2020-07-09T15:26:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paulmarsh.uk/posts/</loc>
-    <lastmod>2020-07-09T15:26:42+01:00</lastmod>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paulmarsh.uk/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulmarsh.uk/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulmarsh.uk/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

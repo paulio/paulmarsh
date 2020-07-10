@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Paul Marsh</title>
+    <title>Debugging Unity With Visualstudio | Paul Marsh</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="generator" content="Hugo 0.73.0" />
     
@@ -26,20 +26,26 @@
 
     
     
-      <link href="/posts/index.xml" rel="alternate" type="application/rss+xml" title="Paul Marsh" />
-      <link href="/posts/index.xml" rel="feed" type="application/rss+xml" title="Paul Marsh" />
-      
-    
-    
-    <meta property="og:title" content="Posts" />
-<meta property="og:description" content="My Name is...Paul Marsh" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="/posts/" />
-<meta property="og:updated_time" content="2020-07-10T11:31:52+01:00" />
-<meta itemprop="name" content="Posts">
-<meta itemprop="description" content="My Name is...Paul Marsh"><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Posts"/>
-<meta name="twitter:description" content="My Name is...Paul Marsh"/>
+    <meta property="og:title" content="Debugging Unity With Visualstudio" />
+<meta property="og:description" content="I&rsquo;ve missed a few bits out, like Watches and Stack Traces but hopefully there is something useful in here
+" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/videos/debugging-unity-with-visualstudio/" />
+<meta property="article:published_time" content="2020-07-10T11:08:17+01:00" />
+<meta property="article:modified_time" content="2020-07-10T11:08:17+01:00" />
+<meta itemprop="name" content="Debugging Unity With Visualstudio">
+<meta itemprop="description" content="I&rsquo;ve missed a few bits out, like Watches and Stack Traces but hopefully there is something useful in here
+">
+<meta itemprop="datePublished" content="2020-07-10T11:08:17&#43;01:00" />
+<meta itemprop="dateModified" content="2020-07-10T11:08:17&#43;01:00" />
+<meta itemprop="wordCount" content="19">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Debugging Unity With Visualstudio"/>
+<meta name="twitter:description" content="I&rsquo;ve missed a few bits out, like Watches and Stack Traces but hopefully there is something useful in here
+"/>
 
 	
   </head>
@@ -47,11 +53,11 @@
   <body class="ma0 avenir bg-near-white">
 
     
+   
+  
 
-  
-  
-  <header class="cover bg-top" style="background-image: url('/images/Background.PNG');">
-    <div class="bg-black-40">
+  <header>
+    <div class="bg-black">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
     <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
@@ -137,93 +143,77 @@
   </div>
 </nav>
 
-      <div class="tc-l pv4 pv3-l ph ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
-          Posts
-        </h1>
-        
-      </div>
     </div>
   </header>
 
 
+
     <main class="pb7" role="main">
       
-  <article class="pa3 pa4-ns nested-copy-line-height nested-img">
-    <section class="cf ph3 ph5-s pv3 pv4-s f4 tc-s center measure-wide lh-copy mid-gray"></section>
-    <section class="flex-ns flex-wrap justify-around mt5">
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        VIDEOS
+      </aside>
       
-        <div class="relative w-100 w-60-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/auto-generated-wall-structure/" class="link black dim">
-        Auto Generated Wall Structure
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>I&rsquo;ve been developing a script that takes the dimensions of a structure and automatically constructs a prefab of the structure made up of individual destructable bricks. In the latest incarnation I&rsquo;ve added an entrance.</p>
-<p><img src="https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5dccae9e067deb2d2d704ff2%2Fposts%2F5ed0dfaf073e3b31ec21123a%2F5ed0dfaf073e3b31ec21123a_98046.png?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=6a32d23a8a20a21abb8fd69e62ebebb8" /></p>
-    </div>
-  </div>
-</div>
-</div>
-      
-        <div class="relative w-100 w-60-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/first-go-with-artengine/" class="link black dim">
-        First Go With ArtEngine
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>First off, I know almost nothing about Art Engine so the fact I could get it to do some useful stuff in next to no time is a good start. This blog post is about what I tried.
-<img src="https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5dccae9e067deb2d2d704ff2%2Fposts%2F5ee8d80a20b6af5d4fef7614%2F5ee8d80a20b6af5d4fef7614_58946.png?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=632419e696aab8957cf5272c4b92ccf5"/></p>
-    </div>
-  </div>
-</div>
-</div>
-      
-        <div class="relative w-100 w-60-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/health-progressbar/" class="link black dim">
-        Health/Progress bar via a Shader
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>It&rsquo;s a fairly common requirement to have some sort of health-bar or progress-bar in a game. However, as explained by <a href="https://www.stevestreeting.com/2019/02/22/enemy-health-bars-in-1-draw-call-in-unity"   target="_blank" >Steve Streeting</a> this can have performance problems if you&rsquo;re using a Canvas and assigning it to many entities. The answer is to use a Shader, but what does that look like? This morning I set about trying to create one and this is my result;
-<img src="/images/home/HealthShader.png" alt="Health Shader"/></p>
-    </div>
-  </div>
-</div>
-</div>
-      
-    </section>
-<ul class="pagination">
-  <li class="page-item">
-    <a href="/posts/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
-  </li>
-  <li class="page-item disabled">
-    <a  class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
-  </li>
-  <li class="page-item active">
-    <a class="page-link" href="/posts/">1</a>
-  </li>
-  <li class="page-item">
-    <a class="page-link" href="/posts/page/2/">2</a>
-  </li>
-  <li class="page-item">
-    <a href="/posts/page/2/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
-  </li>
-  <li class="page-item">
-    <a href="/posts/page/2/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
-  </li>
-</ul>
 
-</article>
+
+
+
+  <div id="sharing" class="mt3">
+
+    
+    <a href="https://www.facebook.com/sharer.php?u=/videos/debugging-unity-with-visualstudio/" class="facebook no-underline" aria-label="share on Facebook">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+
+    </a>
+
+    
+    
+    <a href="https://twitter.com/share?url=/videos/debugging-unity-with-visualstudio/&amp;text=Debugging%20Unity%20With%20Visualstudio" class="twitter no-underline" aria-label="share on Twitter">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=/videos/debugging-unity-with-visualstudio/&amp;title=Debugging%20Unity%20With%20Visualstudio" class="linkedin no-underline" aria-label="share on LinkedIn">
+      <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+
+    </a>
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Debugging Unity With Visualstudio</h1>
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-07-10T11:08:17&#43;01:00">July 10, 2020</time>
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>I&rsquo;ve missed a few bits out, like Watches and Stack Traces but hopefully there is something useful in here
+<a href="https://www.youtube.com/watch?v=ksuZ-RBdqzY&feature=emb_logo
+" target="_blank"><img src="https://img.youtube.com/vi/ksuZ-RBdqzY/0.jpg" alt="Debugging Unity With Visualstudio" class="w-40" /></a></p><ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
 
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">

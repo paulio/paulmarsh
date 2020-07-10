@@ -2,45 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul Marsh</title>
-    <link>https://paulmarsh.uk/</link>
+    <link>/</link>
     <description>Recent content on Paul Marsh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2020 15:57:38 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 11:31:52 +0100</lastBuildDate>
     
-	<atom:link href="https://paulmarsh.uk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Rotation via Parent Constraints</title>
-      <link>https://paulmarsh.uk/videos/rotation-via-parent-constraints/</link>
-      <pubDate>Thu, 09 Jul 2020 15:57:38 +0100</pubDate>
-      
-      <guid>https://paulmarsh.uk/videos/rotation-via-parent-constraints/</guid>
-      <description>&lt;p&gt;Sometimes you get a model where the bones are offset and that can make it very difficult to rotate the model correctly.
-In &lt;a href=&#34;https://youtu.be/4LXdrvYpo7A&#34;  title=&#34;CBCStudios&#34;   target=&#34;_blank&#34; &gt;Rotation via Parent Constraints&lt;/a&gt; I&amp;rsquo;ll show one technique to easily workaround the problem.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4LXdrvYpo7A
-&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/4LXdrvYpo7A/0.jpg&#34; 
-alt=&#34;Rotation via Parent Constraints&#34; width=&#34;480&#34; height=&#34;360&#34; border=&#34;10&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
-      <title>Intro</title>
-      <link>https://paulmarsh.uk/posts/intro/</link>
-      <pubDate>Thu, 09 Jul 2020 15:26:42 +0100</pubDate>
+      <title>Me</title>
+      <link>/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://paulmarsh.uk/posts/intro/</guid>
-      <description>Hello, and welcome to a whole site dedicated to me, Paul.</description>
+      <guid>/me/</guid>
+      <description>Microsoft developer since 1983 (go Dragon32/TRS-80), c# since 2001
+Focused Unity dev since 2020
+Joint owner of company with my wife, she creates 3D Assets and Music.
+Curriculum Vitae Quick Summary  Developer with lead and Development Manager experience (permanent, outsourced and contract staff) 20 years professional experience of C# and .net Experience in a range of enterprise technologies; including Azure message, cognitive, bot service. Services for 10K msg/s, notifications for 10Ms users. Developing with Unity 3D for 12 months. E.g. Desktop FPS, Game Jam min game, Tower defence YouTube Channel (https://www.youtube.com/c/cbcstudios) on Unity and Bot Framework Teaching technologies without assuming prior knowledge  Recent Projects  Pillbox FPS (Unity 3D, Terrain, LIDAR, EasyRoads3D, River Auto Material (RAM), Vegetation Studio Pro, Gaia Pro, Final IK) Tower Defence (Unity 3D URP, GameDevHQ) Game Jam (Unity 3D, PlayFab Leaderboards, https://pauliom.itch.io/delivery-cannon) Philips Hue (Unity 3D, Philips Hue SDK) Lip Sync historical (Unity 3D HDRP, LipSync Pro, Character Creator 3, Language Understanding Intelligent Service - LUIS)  Previous Work Experience  UBS Switzerland - Azure services, CosmosDB, Bot Framework, C#, .Net Core Microsoft Consulting Services - IoT Hub, Azure Service Fabric, NLB, CosmosDB, SQL Server, C# Facebook Windows Phone App - Azure Notifications, XAML, Graph API, MVC Web-API. C# Trace One - Enterprise Apps for Tesco, Sainsbury&amp;rsquo;s, SQL Server, ASP.NET, C# Eqos - Enterprise Apps for Tesco, Best Buy, Sainsbury&amp;rsquo;s, Royal &amp;amp; Sun Alliance, HEB, Edcon, Focus-Wickes, Boots, Pfizer and Nestle, SQL Server ASP.NET, C# Solidsoft Ltd - Enterprise Apps for Marks &amp;amp; Spencers, National Milk Records, Microsoft UK Videcom - Handheld Scanners for Virgin Airlines Defence Research Agency  If you want to learn more about my non-gaming dev past then feel free to look me up at; https://www.linkedin.com/in/paul-marsh/</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://paulmarsh.uk/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://paulmarsh.uk/contact/</guid>
+      <guid>/contact/</guid>
       <description>Hi, if you want to send a quick message then please complete the form and send away.
 Your NameEmail AddressAn email address is required.Message</description>
+    </item>
+    
+    <item>
+      <title>Auto Generated Wall Structure</title>
+      <link>/posts/auto-generated-wall-structure/</link>
+      <pubDate>Fri, 10 Jul 2020 11:31:52 +0100</pubDate>
+      
+      <guid>/posts/auto-generated-wall-structure/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been developing a script that takes the dimensions of a structure and automatically constructs a prefab of the structure made up of individual destructable bricks. In the latest incarnation I&amp;rsquo;ve added an entrance.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5dccae9e067deb2d2d704ff2%2Fposts%2F5ed0dfaf073e3b31ec21123a%2F5ed0dfaf073e3b31ec21123a_98046.png?width=1240&amp;w=1240&amp;auto=format%2Ccompress&amp;ixlib=js-2.3.1&amp;s=6a32d23a8a20a21abb8fd69e62ebebb8&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Go With ArtEngine</title>
+      <link>/posts/first-go-with-artengine/</link>
+      <pubDate>Fri, 10 Jul 2020 11:20:54 +0100</pubDate>
+      
+      <guid>/posts/first-go-with-artengine/</guid>
+      <description>&lt;p&gt;First off, I know almost nothing about Art Engine so the fact I could get it to do some useful stuff in next to no time is a good start. This blog post is about what I tried.
+&lt;img src=&#34;https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5dccae9e067deb2d2d704ff2%2Fposts%2F5ee8d80a20b6af5d4fef7614%2F5ee8d80a20b6af5d4fef7614_58946.png?width=1240&amp;w=1240&amp;auto=format%2Ccompress&amp;ixlib=js-2.3.1&amp;s=632419e696aab8957cf5272c4b92ccf5&#34;/&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Non Humanoid Avatar Masks</title>
+      <link>/videos/non-humanoid-avatar-masks/</link>
+      <pubDate>Fri, 10 Jul 2020 11:17:46 +0100</pubDate>
+      
+      <guid>/videos/non-humanoid-avatar-masks/</guid>
+      <description>&lt;p&gt;How to create non-humanoid avatar mask for use with Animation Layers
+&lt;a href=&#34;https://www.youtube.com/watch?v=4INef1-InUY&amp;feature=emb_logo
+&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/4INef1-InUY/0.jpg&#34; alt=&#34;Non Humanoid Avatar Masks&#34; class=&#34;w-40&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Detect Ranges With Separate Colliders</title>
+      <link>/videos/detect-ranges-with-separate-colliders/</link>
+      <pubDate>Fri, 10 Jul 2020 11:14:27 +0100</pubDate>
+      
+      <guid>/videos/detect-ranges-with-separate-colliders/</guid>
+      <description>&lt;p&gt;Showing how to setup game objects with different detection ranges via separate child colliders.
+&lt;a href=&#34;https://www.youtube.com/watch?v=nNGb6NKLfaQ&amp;feature=emb_logo
+&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/nNGb6NKLfaQ/0.jpg&#34; alt=&#34;Detect Ranges With Separate Colliders&#34; class=&#34;w-40&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Debugging Unity With Visualstudio</title>
+      <link>/videos/debugging-unity-with-visualstudio/</link>
+      <pubDate>Fri, 10 Jul 2020 11:08:17 +0100</pubDate>
+      
+      <guid>/videos/debugging-unity-with-visualstudio/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve missed a few bits out, like Watches and Stack Traces but hopefully there is something useful in here
+&lt;a href=&#34;https://www.youtube.com/watch?v=ksuZ-RBdqzY&amp;feature=emb_logo
+&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/ksuZ-RBdqzY/0.jpg&#34; alt=&#34;Debugging Unity With Visualstudio&#34; class=&#34;w-40&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Health/Progress bar via a Shader</title>
+      <link>/posts/health-progressbar/</link>
+      <pubDate>Fri, 10 Jul 2020 11:01:35 +0100</pubDate>
+      
+      <guid>/posts/health-progressbar/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s a fairly common requirement to have some sort of health-bar or progress-bar in a game. However, as explained by &lt;a href=&#34;https://www.stevestreeting.com/2019/02/22/enemy-health-bars-in-1-draw-call-in-unity&#34;   target=&#34;_blank&#34; &gt;Steve Streeting&lt;/a&gt; this can have performance problems if you&amp;rsquo;re using a Canvas and assigning it to many entities. The answer is to use a Shader, but what does that look like? This morning I set about trying to create one and this is my result;
+&lt;img src=&#34;/images/home/HealthShader.png&#34; alt=&#34;Health Shader&#34;/&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Auto Convert Roads Types from Real World Terrain</title>
+      <link>/posts/auto-convert-easyroads-types/</link>
+      <pubDate>Fri, 10 Jul 2020 08:58:27 +0100</pubDate>
+      
+      <guid>/posts/auto-convert-easyroads-types/</guid>
+      <description>&lt;p&gt;Real World Terrain is a great Unity Asset to kick start a Unity Terrain based upon a real life location.
+One of the helpful features is that it will can also be used in conjunction with EasyRoads3D to generate a road network based on actual road data.
+However, you might find yourself in a situation were you&amp;rsquo;ve requested that all roads types (highways to dirt paths) are included but you end up with everything looking like 6 metre asphalt roads.
+If you&amp;rsquo;re in this situation then you can use the following script (or tweaked to your needs) to convert them to something more useful.
+&lt;strong&gt;NB It also sets the width of the road to that specified in the meta data.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rotation via Parent Constraints</title>
+      <link>/videos/rotation-via-parent-constraints/</link>
+      <pubDate>Thu, 09 Jul 2020 15:57:38 +0100</pubDate>
+      
+      <guid>/videos/rotation-via-parent-constraints/</guid>
+      <description>&lt;p&gt;Sometimes when developing a Unity App you get a model where the bones are offset and that can make it very difficult to rotate the model correctly.
+In &lt;a href=&#34;https://youtu.be/4LXdrvYpo7A&#34;  title=&#34;CBCStudios&#34;   target=&#34;_blank&#34; &gt;Rotation via Parent Constraints&lt;/a&gt; I&amp;rsquo;ll show one technique to easily workaround the problem.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4LXdrvYpo7A
+&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/4LXdrvYpo7A/0.jpg&#34; 
+alt=&#34;Rotation via Parent Constraints&#34; class=&#34;w-40&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Can&#39;t paint Trees, etc onto your Unity Terrain?</title>
+      <link>/posts/cannot-paint-trees-on-terrain/</link>
+      <pubDate>Thu, 09 Jul 2020 15:26:42 +0100</pubDate>
+      
+      <guid>/posts/cannot-paint-trees-on-terrain/</guid>
+      <description>I was scratching my head today as I suddenly wasn&amp;rsquo;t able to use the either the Terrain tools or GeNa to paint/stamp trees onto my Terrain. Turns out that Vegetation Studio Pro turns off the ability here;</description>
     </item>
     
   </channel>
