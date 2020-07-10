@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\exampleSite",
-    "\\exampleSite\\resources",
-    "\\exampleSite\\resources\\_gen",
-    "\\exampleSite\\resources\\_gen\\assets",
-    "\\exampleSite\\resources\\_gen\\assets\\scss",
-    "\\exampleSite\\resources\\_gen\\assets\\scss\\scss",
-    "\\exampleSite\\static",
-    "\\exampleSite\\static\\images",
-    "\\static"
+    "\\content",
+    "\\content\\posts",
+    "\\content\\videos",
+    "\\public",
+    "\\static",
+    "\\themes",
+    "\\themes\\ananke",
+    "\\themes\\ananke\\layouts\\partials",
+    "\\themes\\ananke\\layouts\\partials\\func"
   ],
-  "SelectedNode": "\\exampleSite\\static",
+  "SelectedNode": "\\public\\index.html",
   "PreviewInSolutionExplorer": false
 }

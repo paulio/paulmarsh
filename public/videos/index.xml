@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paul Marsh</title>
-    <link>https://paulmarsh.uk/</link>
-    <description>Recent content on Paul Marsh</description>
+    <title>Videos on Paul Marsh</title>
+    <link>https://paulmarsh.uk/videos/</link>
+    <description>Recent content in Videos on Paul Marsh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jul 2020 15:57:38 +0100</lastBuildDate>
     
-	<atom:link href="https://paulmarsh.uk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://paulmarsh.uk/videos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,25 +22,6 @@ In &lt;a href=&#34;https://youtu.be/4LXdrvYpo7A&#34;  title=&#34;CBCStudios&#34;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4LXdrvYpo7A
 &#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/4LXdrvYpo7A/0.jpg&#34; 
 alt=&#34;Rotation via Parent Constraints&#34; width=&#34;480&#34; height=&#34;360&#34; border=&#34;10&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Intro</title>
-      <link>https://paulmarsh.uk/posts/intro/</link>
-      <pubDate>Thu, 09 Jul 2020 15:26:42 +0100</pubDate>
-      
-      <guid>https://paulmarsh.uk/posts/intro/</guid>
-      <description>Hello, and welcome to a whole site dedicated to me, Paul.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://paulmarsh.uk/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://paulmarsh.uk/contact/</guid>
-      <description>Hi, if you want to send a quick message then please complete the form and send away.
-Your NameEmail AddressAn email address is required.Message</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-baseURL = "https://paulmarsh.uk/"
+hubaseURL = "https://paulmarsh.uk/"
 languageCode = "en-us"
 title = "Paul Marsh"
 theme = "ananke"
@@ -23,17 +23,17 @@ summaryLength = 300
   facebook = ""
   twitter = "https://twitter.com/pauliom"
   instagram = ""
-  youtube = ""
+  youtube = "https://www.youtube.com/c/cbcstudios"
   github = ""
   gitlab = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/paul-marsh/"
   mastodon = ""
   slack = ""
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "/images/Background.PNG"
   recent_posts_number = 2
 
   [markup]
@@ -84,3 +84,18 @@ summaryLength = 300
     endLevel = 3
     ordered = false
     startLevel = 2
+
+
+[menu]
+[[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/posts/"
+    weight = 2
+
+    [[menu.main]]
+    identifier = "videos"
+    name = "Videos"
+    url = "/videos/"
+    weight = 3
