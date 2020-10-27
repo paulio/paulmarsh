@@ -40,13 +40,13 @@ to
 
 It took me about 2 mins to setup, maybe another 1 mins or so to run. I can't imagine how much faffing it would traditionally take me.
 
-##Mutating
+## Mutating
 So we pat on ourselves on the back because we've gone from a humble camera phone picture to a nicely tiling material. But wait, if you like the material, why not have some variations of it? Well okay, grab your Mutate node and create another texture.
 
 <img src="https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5dccae9e067deb2d2d704ff2%2Fposts%2F5ee8dac2ea389c5ad39cef9b%2F5ee8dac2ea389c5ad39cef9b_8619.png?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=8a35f7a6a5a66ad0e39b220b307877f7" />
 
 Original Material;
-<img alt="Original Material" src=https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5dccae9e067deb2d2d704ff2%2Fposts%2F5ee8dace4ad53250a3a0257b%2F5ee8dace4ad53250a3a0257b_77518.png?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=8f082c2f18d1f47d7715a5ca4dec1819 " />
+<img alt="Original Material" src="https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5dccae9e067deb2d2d704ff2%2Fposts%2F5ee8dace4ad53250a3a0257b%2F5ee8dace4ad53250a3a0257b_77518.png?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=8f082c2f18d1f47d7715a5ca4dec1819" />
 
 Mutation of Material;
 <img src="https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5dccae9e067deb2d2d704ff2%2Fposts%2F5ee8dadc25e5835a6c38e5cb%2F5ee8dadc25e5835a6c38e5cb_32767.png?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=0326ffba75dbd68c7808775e6f8e886f" />
