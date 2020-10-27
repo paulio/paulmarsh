@@ -6,7 +6,7 @@ draft: false
 
 How to create non-humanoid avatar mask for use with Animation Layers
 <a href="https://www.youtube.com/watch?v=4INef1-InUY&feature=emb_logo
-" target="_blank"><img src="https://img.youtube.com/vi/4INef1-InUY/0.jpg" alt="Non Humanoid Avatar Masks" class="w-40" /></a>
+" target="_blank"><img src="https://img.youtube.com/vi/4INef1-InUY/maxresdefault.jpg" alt="Non-Humanoid Avatar Masks" /></a>
 <!--more-->
 
 
