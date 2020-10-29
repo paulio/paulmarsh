@@ -1,3 +1,12 @@
 .nested-img img.siteImg {
     width: 40%;
 }
+
+
+.imgPortrait img {
+    width: 40%;
+}
+
+.imgLandscape img {
+    width: 80%;
+}
