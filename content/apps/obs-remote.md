@@ -22,6 +22,7 @@ Note: Currently OBS Remote does NOT support Scene Collections. If you like OBS R
 
 # Installing OBS REMOTE
 Before you can use OBS Remote you must install Web Socket add-in and enter the connection details into OBS Remote. This guide will take you through that.
+** NB Make a note of the port number your use during the installation **
 
 ## Add Web Socket Add-In to your OBS Installion
 OBS REMOTE requires a Web Socket add-in to installed on OBS. You can install
@@ -30,8 +31,9 @@ OBS REMOTE requires a Web Socket add-in to installed on OBS. You can install
 ## Install OBS REMOTE for your Device(s)
 You can download OBS REMOTE from;
 * Google Play
-* Amazon App Store
-* Windows Store
+* TBA Amazon App Store
+* TBA Windows Store
+* TBA Apple Store
 
 # Connecting OBS REMOTE to OBS
 Once you have installed the Web Socket add-in you can connect it to OBS Remote.
@@ -39,7 +41,7 @@ Once you have installed the Web Socket add-in you can connect it to OBS Remote.
 {{< figure src="/images/OBS/InitialSetup.png" title="Connect to OBS" class="imgPortrait" >}}
 
 To connect to OBS you need to supply the address of the machine OBS is running on together with the port you used to install the Web Socket add-in.
-Typically the address will just be the same name as the machine OBS is running and the default port will be *4444*. For example, if you machine name is JUPITER then the address
+Typically the address will just be the same name as the machine OBS is running and the default port will be *4444*. For example, if your machine name is JUPITER then the address
 you need to enter is (**you must include the ws://** at the front); *ws://jupiter:4444*
 
 NB. Some devices, such as Amazon Fire tablets, do not use your networks naming services. If this is the case then you cannot use the name of your computer, you must find the IP address instead.
@@ -65,10 +67,17 @@ You can change where the icons appear on the remote by tap-and-holding (or click
 {{< figure src="/images/OBS/Reorder.gif" title="Reordering" class="imgPortrait" >}}
 
 
+## Customise a Scene Icon
+You can change the appearance of the Scene Icons to help you more easily find them on your OBS Remote.
+1. Select the Pencil edit icon to enter Edit Mode
+2. Select the Scene you want to customise
+3. Make the changes you want and press the Save icon
+{{< figure src="/images/OBS/CustomiseScene.gif" title="Customise Scene" class="imgPortrait" >}}
+
 # Troubleshooting
 If you have problems using OBS Remote then please see read the following guide, or you can [contact me](https://paulmarsh.uk/contact/)
 
-## I cannot get the Remote to Connect 
+## I cannot get the Remote to Connect
 1. Make sure OBS is running.
 1. Double check that the address in the Setup page (the gear/cog) matches the name of the machine running OBS
 1. Make sure the device running OBS Remote is on the same network as the machine running OBS
@@ -82,6 +91,16 @@ This typically happens if you have renamed the scene in OBS. Normally you can go
 
 ### I don't see a Scene or Record or Streaming icons on my remote control
 Go into the Scene Manager and ensure the Scene/Function you want is checked. Pencil->Plus/Minus
+
+### The double-size icon is not taking up two places
+The double-sized icon is a feature that is still under development and there are still a number of inconsistencies. 
+* If a double-sized icon is too close to the edge it will not expand itself to full width. You can either edit the size to single width or reorder the icon
+* If the result is just ugly and reodering doesn't help then change the size back to *Normal* and [contact me](https://paulmarsh.uk/contact/)
+
+## It's just not working
+It is possible for OBS Remote to get into trouble, just forcing the app to close and restart it. If you still have problems then you can remove all your customisations and start again by selecting the Setup Cog/Gear and choosing *Clear Data and Quit*. 
+Warning, once you press this you will have to enter the connection details again.
+
 
 ## Reporting Errors
 When an error occurs OBS Remote will present you with an Error Reporting screen. It might not fix your problem now, but if you share the details then I will have the opportunity to fix it. Or if you do not wish
