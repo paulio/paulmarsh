@@ -1,7 +1,7 @@
 ---
 title: "OBS REMOTE"
 date: 2020-07-10T08:58:27+01:00
-draft: true
+draft: false
 ---
 [OBS](https://obsproject.com/) (Open Broadcaster Software) is free and open source software for video recording and live streaming.
 
@@ -30,7 +30,7 @@ OBS REMOTE requires a Web Socket add-in to installed on OBS. You can install
 
 ## Install OBS REMOTE for your Device(s)
 You can download OBS REMOTE from;
-* Google Play
+* [Google Play](https://play.google.com/store/apps/details?id=com.DefaultCompany.OBSController)
 * TBA Amazon App Store
 * TBA Windows Store
 * TBA Apple Store
