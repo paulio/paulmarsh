@@ -30,8 +30,9 @@ OBS REMOTE requires a Web Socket add-in to installed on OBS. You can install
 
 ## Install OBS REMOTE for your Device(s)
 You can download OBS REMOTE from;
-* <a href='https://play.google.com/store/apps/details?id=com.DefaultCompany.OBSController&gl=AZ&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/static/images/badges/en_badge_web_generic.png' style='width:240px'/></a>
-* [Amazon App Store](https://www.amazon.co.uk/CBCStudios-OBS-Remote/dp/B08N6VW5D7)
+<a href='https://play.google.com/store/apps/details?id=com.DefaultCompany.OBSController&gl=AZ&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/static/images/badges/en_badge_web_generic.png' style='width:240px'/></a><a href='https://www.amazon.co.uk/CBCStudios-OBS-Remote/dp/B08N6VW5D7'><img alt='Available on Amazon' src='/images/OBS/AmazonStore.png' style='width:211px;height:70px;padding-left:14px'/></a>
+
+
 * TBA Windows Store
 * TBA Apple Store
 
