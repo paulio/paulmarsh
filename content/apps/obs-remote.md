@@ -26,7 +26,7 @@ Before you can use OBS Remote you must install Web Socket add-in and enter the c
 
 ## Add Web Socket Add-In to your OBS Installion
 OBS REMOTE requires a Web Socket add-in to installed on OBS. You can install
-[OBS Web Socket](https://github.com/Palakis/obs-websocket#downloads) for Mac or Linux.
+[OBS Web Socket](https://github.com/Palakis/obs-websocket#downloads) for Windows, Mac or Linux.
 
 ## Install OBS REMOTE for your Device(s)
 You can download OBS REMOTE from;
