@@ -1,4 +1,4 @@
----
+ï»¿---
 title: "OBS REMOTE"
 date: 2020-07-10T08:58:27+01:00
 draft: false
@@ -109,7 +109,8 @@ to send the data you can to [contact me](https://paulmarsh.uk/contact/) directly
 
 ## Credits
 Thanks to the following GameDevHQ stars for helping to localise the app;
-* Español/Spanish - [Rehtse Studio](https://linktr.ee/rehtse_studio)
-* Français & Canadien/French & French Canadian - Mickplouffe
+* EspaÃ±ol/Spanish - [Rehtse Studio](https://linktr.ee/rehtse_studio)
+* FranÃ§ais & Canadien/French & French Canadian - Mickplouffe
 * Deutsche/German - Silvija Jung
 * Norsk/Norwegian - Kenneth Skodje
+Thanks everyone.
