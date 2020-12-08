@@ -106,3 +106,10 @@ Warning, once you press this you will have to enter the connection details again
 ## Reporting Errors
 When an error occurs OBS Remote will present you with an Error Reporting screen. It might not fix your problem now, but if you share the details then I will have the opportunity to fix it. Or if you do not wish
 to send the data you can to [contact me](https://paulmarsh.uk/contact/) directly.
+
+## Credits
+Thanks to the following GameDevHQ stars for helping to localise the app;
+* Español/Spanish - [Rehtse Studio](https://linktr.ee/rehtse_studio)
+* Français & Canadien/French & French Canadian - Mickplouffe
+* Deutsche/German - Silvija Jung
+* Norsk/Norwegian - Kenneth Skodje
