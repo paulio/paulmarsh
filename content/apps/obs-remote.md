@@ -113,4 +113,5 @@ Thanks to the following GameDevHQ stars for helping to localise the app;
 * Français & Canadien/French & French Canadian - Mickplouffe
 * Deutsche/German - Silvija Jung
 * Norsk/Norwegian - Kenneth Skodje
+
 Thanks everyone.
