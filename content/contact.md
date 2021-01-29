@@ -10,6 +10,8 @@ weight: 4
 
 
 Hi, if you want to send a quick message then please complete the form and send away.
+
+
 NB Please no messages regarding offering CMS or SEO services, thanks.
 
 {{< form-contact action="https://formspree.io/mdowwvgb"  >}}
