@@ -95,9 +95,3 @@ relativeURLs = false
     pre = "<i class='fa fa-heart'></i>"
     url = "/posts/"
     weight = 2
-
-    [[menu.main]]
-    identifier = "videos"
-    name = "Videos"
-    url = "/videos/"
-    weight = 3
