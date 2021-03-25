@@ -8,8 +8,9 @@ I used SpeedTree to create a Gorse Bush. It's a tricky proposition as it's, figu
 and that doesn't work too well with the Tree model. But it's going quite well,
 so I've added some variants with some of the animals I bought from the Asset store. Starting to look like a proper scene.
 
-<a href="https://www.youtube.com/watch?v=s2Flu4RKRBw&feature=emb_logo
-" target="_blank"><img src="https://img.youtube.com/vi/s2Flu4RKRBw/0.jpg" alt="Gorse Bush"/></a>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/s2Flu4RKRBw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Space Cadet VR"></iframe>
+</div>
 
 <!--more-->
 
