@@ -81,6 +81,19 @@ It's doesn't requite a lot of changes. Now we have non-blocking Editor code that
 NB You can raise a canceled exception rather than just return, depends how you want the caller to handle the cancellation.
 ## Back to EditorCoroutineUtility
 
+```csharp
+if (!_isDigging && GUILayout.Button("Dig Trench"))
+{
+    _isDigging = true;
+    _digTrenchCoroutine = EditorCoroutineUtility.StartCoroutine(DigTrench(), this);
+}
+else if (_isDigging && GUILayout.Button("Stop Digging"))
+{
+    _isDigging = false;
+    EditorCoroutineUtility.StopCoroutine(_digTrenchCoroutine);
+}
+```
+
 Okay, okay, we've had a whistle stop tour of a Async Await solution, but I've already said we have a more familiar Coroutine route, what does that look like?
 
 It's a lot more familiar to Unity Developers. The big bonus is that we can probably get away with just stopping the coroutine rather than worrying about it detecting a signal. However, it's still helpful for the coroutine to breath a little with the addition of a simple yield inside the loop;
