@@ -59,7 +59,7 @@ By using a simple isDigging flag we can display a UI that allows the User to can
 NB I've not included exception handling here, slap wrists
 
 Then to stop the running code we can just call Cancel() on the token. Easy enough if a little verbose.
-Async Code
+## Async Code
 
 The code that contains the loops simply has to a) check for a cancel b) yield control
 
