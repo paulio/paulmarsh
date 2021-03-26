@@ -6,7 +6,7 @@ draft: false
 
 <img src="https://miro.medium.com/max/700/1*DLAY8hRwc-3eC6j3QSnILw.jpeg"/>
 
-If there is one thing that is guaranteed to drain the blood from the face of Unity Developer it's a tight loop. If you introduce a tight loop into you code then chances are you're going to have to kill the Unity Editor (tip: sometimes you can escape them by deliberately introducing an exception in the loop's code while running).
+If there is one thing that is guaranteed to drain the blood from the face of Unity Developer it's a tight loop. If you introduce a tight loop into your code then chances are you're going to have to kill the Unity Editor (tip: sometimes you can escape them by deliberately introducing an exception in the loop's code while running).
 
 One way to mitigate this risk is put any dangerous code into a Coroutine with at least one yield inside the loop. 
 This can give Unity the opportunity to stop the code. However, if you're writing a Unity Editor, StartCoroutine is part of the MonoBehaviour not the Editor - these are actually ScriptableObjects.
@@ -15,7 +15,7 @@ This can give Unity the opportunity to stop the code. However, if you're writing
 
 ## EditorCoroutineUtility
 
-Probably the easiest solution is to use the Editor Coroutines Package. This brings an almost exact replica of the MonoBehaviour functions;
+Probably the easiest solution is to use the [Editor Coroutines Package](https://docs.unity3d.com/Packages/com.unity.editorcoroutines@0.0/manual/index.html). This brings an almost exact replica of the MonoBehaviour functions;
 
 ```csharp
 EditorCoroutineUtility.StartCoroutine(CountEditorUpdates(), this);
@@ -76,7 +76,7 @@ else
 }
 ```
 
-It's doesn't requite a lot of changes. Now we have non-blocking Editor code that can easily be cancelled. Yay.
+It's doesn't require a lot of changes. Now we have non-blocking Editor code that can easily be cancelled. Yay.
 
 NB You can raise a canceled exception rather than just return, depends how you want the caller to handle the cancellation.
 ## Back to EditorCoroutineUtility
