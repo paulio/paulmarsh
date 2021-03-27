@@ -24,6 +24,7 @@ Joint owner of company with my wife, she creates 3D Assets and Music.
 *	Teaching technologies without assuming prior knowledge
 
 ## Recent Projects
+*	Space Cadet Interactive VR (Unity 3D, Oculus, Final IK, LipSync Pro, Character Creator 3, iClone 7)
 *	Pillbox FPS (Unity 3D, Terrain, LIDAR, EasyRoads3D, River Auto Material (RAM), Vegetation Studio Pro, Gaia Pro, Final IK)
 *	Tower Defence (Unity 3D URP, GameDevHQ)
 *	Game Jam (Unity 3D, PlayFab Leaderboards, https://pauliom.itch.io/delivery-cannon)
