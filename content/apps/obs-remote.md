@@ -81,7 +81,7 @@ If you have problems using OBS Remote then please see read the following guide, 
 ## I cannot get the Remote to Connect
 1. Make sure OBS is running.
 1. Double check that the address in the Setup page (the gear/cog) matches the name of the machine running OBS
-1. Make sure the device running OBS Remote is on the same network as the machine running OBS
+1. Make sure the device running OBS Remote is **on the same network as the machine running OBS**. E.g All on the same 5Hz local network
 1. If you are using the Name of the machine in the address, try the IP Address instead.
 1. Make sure you have installed the Web Socket add-in into OBS
 
