@@ -7,12 +7,30 @@ type: page
 menu: main
 weight: 1
 ---
-Microsoft developer since 1983 (go Dragon32/TRS-80), c# since 2001
+* Microsoft developer since 1983 (go Dragon32/TRS-80)
+* c# since 2001
+* Focused Unity 3D development since 2020
+* Joint owner of company with my 3D Assets & music creating wife
 
-Focused Unity dev since 2020
+## Reels
 
-Joint owner of company with my wife, she creates 3D Assets and Music.
+### Games & Apps
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/Ol9GKG9YlMg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Space Cadet VR"></iframe>
+</div>
+
+### Tutorials
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/aOkHW6CQGU0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Space Cadet VR"></iframe>
+</div>
+
+## Tutorials & Blogs
+
+* YouTube Channel
+<a href="https://www.youtube.com/channel/UCV6hjNfwhKVCiNWHkzulo1Q"><img src="/images/home/YouTubeChannel.png"></a>
+
+* [Medium](https://pauliom.medium.com/) stories and development blog posts.
 
 ## Curriculum Vitae Quick Summary
 
