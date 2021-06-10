@@ -85,6 +85,9 @@ If you have problems using OBS Remote then please see read the following guide, 
 1. If you are using the Name of the machine in the address, try the IP Address instead.
 1. Make sure you have installed the Web Socket add-in into OBS
 
+For Windows users, ensure the OBS server and your devices are all on the same Windows security network (typically to avoid Firewall problems this will be 'Private Network')
+{{< figure src="/images/OBS/WindowsSecurity.png" title="Windows Security" class="imgPortrait" >}}
+
 ## Scene-Icon Problems
 
 ### I select an Icon but the scene doesn't change
