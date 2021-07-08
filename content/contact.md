@@ -14,4 +14,4 @@ Hi, if you want to send a quick message then please complete the form and send a
 
 NB Please no messages regarding offering CMS, SEO or "buying traffic" services, thanks.
 
-{{< form-contact action="https://formspree.io/mdowwvgb"  >}}
+{{< form-contact action="https://formspree.io/f/mdowwvgb"  >}}
